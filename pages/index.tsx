@@ -4,7 +4,7 @@ import { Layout } from '../components/layouts'
 
 const HomePage: NextPage = () => {
 	return (
-		<Layout title='page' >
+		<Layout title='Open Jira' >
 			<Typography variant='h1' color={'primary'}>
 				Hola mundo 
 			</Typography>
